@@ -8,7 +8,7 @@
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  color: gray;
+  color: rgb(174, 173, 173);
   cursor: pointer;
   /* z-index: 9; */
 }
